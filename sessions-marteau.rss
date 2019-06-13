@@ -16,7 +16,7 @@
    <itunes:email>info@sessionsmarteau.com</itunes:email>
 </itunes:owner>
 <itunes:category text="Music">
-   <itunes:category text="" />
+   <itunes:category text="Music" />
 </itunes:category>
 <itunes:keywords>music, listening, experimental, classic, jazz, avant-garde</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
