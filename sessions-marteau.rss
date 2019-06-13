@@ -32,9 +32,9 @@
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
    <title>Session #1A Jon Wild</title>
-   <description>Jon Wild presents modern classical music from Scandinavian and Polish composers.</description>
-   <itunes:summary>Jon Wild presents modern classical music from Scandinavian and Polish composers.</itunes:summary>
-   <itunes:subtitle>Jon Wild presents modern classical music from Scandinavian and Polish composers.</itunes:subtitle>
+   <description>Jon Wild présente de la musique classique scandinave et polonaise (Lasse Thoresen, Jean Sibelius et Karol Szymanowski).</description>
+   <itunes:summary>Jon Wild présente de la musique classique scandinave et polonaise (Lasse Thoresen, Jean Sibelius et Karol Szymanowski).</itunes:summary>
+   <itunes:subtitle>Jon Wild présente de la musique classique scandinave et polonaise (Lasse Thoresen, Jean Sibelius et Karol Szymanowski).</itunes:subtitle>
    <itunesu:category itunesu:code="102107" />
    <enclosure url="https://sessionsmarteau.com/assets/podcasts/Sessions-Marteau-001A-Jon-Wild-mix.m4a" type="audio/mpeg" length="1" />
    <guid>https://sessionsmarteau.com/assets/podcasts/Sessions-Marteau-001A-Jon-Wild-mix.m4a</guid>
@@ -44,9 +44,9 @@
 
 <item>
    <title>Session #1B Felix-Antoine Hamel</title>
-   <description>Felix-Antoine Hamel presents jazz composers and performers from the local Québec scene.</description>
-   <itunes:summary>Felix-Antoine Hamel presents jazz composers and performers from the local Québec scene.</itunes:summary>
-   <itunes:subtitle>Felix-Antoine Hamel presents jazz composers and performers from the local Québec scene.</itunes:subtitle>
+   <description>Félix-Antoine Martel présente du jazz néo-québécois (Sadik Hakim et Abdul Al-Khabyyr).</description>
+   <itunes:summary>Félix-Antoine Martel présente du jazz néo-québécois (Sadik Hakim et Abdul Al-Khabyyr).</itunes:summary>
+   <itunes:subtitle>Félix-Antoine Martel présente du jazz néo-québécois (Sadik Hakim et Abdul Al-Khabyyr).</itunes:subtitle>
    <itunesu:category itunesu:code="102107" />
    <enclosure url="https://sessionsmarteau.com/assets/podcasts/Sessions-Marteau-001B-Felix-Antoine-mix.m4a" type="audio/mpeg" length="1" />
    <guid>https://sessionsmarteau.com/assets/podcasts/Sessions-Marteau-001B-Felix-Antoine-mix.m4a</guid>
