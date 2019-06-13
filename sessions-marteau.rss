@@ -7,7 +7,7 @@
 <webMaster>info@sessionsmarteau.com</webMaster>
 <managingEditor>info@sessionsmarteau.com</managingEditor>
 <image>
-   <url>https://sessionsmarteau.com/images/marteau_300_px.jpg</url>
+   <url>https://sessionsmarteau.com/images/marteau_1792_px.jpg</url>
    <title>Sessions d'écoute Marteau</title>
    <link>https://sessionsmarteau.com</link>
 </image>
@@ -20,8 +20,8 @@
 </itunes:category>
 <itunes:keywords>music, listening, experimental, classic, jazz, avant-garde</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://sessionsmarteau.com/images/marteau_300_px.jpg" />
-<atom:link href="https://sessionsmarteau.com/feed.xml" rel="self" type="application/rss+xml" />
+<itunes:image href="https://sessionsmarteau.com/images/marteau_1792_px.jpg" />
+<atom:link href="https://sessionsmarteau.com/sessions-marteau.rss" rel="self" type="application/rss+xml" />
 <pubDate>Wed, 19 Apr 2019 09:00:00 GMT</pubDate>
 <title>Sessions d'écoute Marteau</title>
 <itunes:author>Sessions d'écoute Marteau</itunes:author>
