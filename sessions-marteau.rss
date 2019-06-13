@@ -5,7 +5,7 @@
 <language>en-us</language>
 <copyright>&#xA9;2019</copyright>
 <webMaster>info@sessionsmarteau.com</webMaster>
-<managingEditor>Sessions d'écoute Marteau</managingEditor>
+<managingEditor>info@sessionsmarteau.com</managingEditor>
 <image>
    <url>https://sessionsmarteau.com/images/marteau_1792_px.jpg</url>
    <title>Sessions d'écoute Marteau</title>
@@ -15,8 +15,8 @@
    <itunes:name>Sessions d'écoute Marteau</itunes:name>
    <itunes:email>info@sessionsmarteau.com</itunes:email>
 </itunes:owner>
-<itunes:category text="Art &#038; Architecture">
-   <itunes:category text="Music" />
+<itunes:category text="Music">
+   <itunes:category text="" />
 </itunes:category>
 <itunes:keywords>music, listening, experimental, classic, jazz, avant-garde</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
