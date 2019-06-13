@@ -32,9 +32,9 @@
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
    <title>Session #1A Jon Wild</title>
-   <description>Jon Wild présente de la musique classique scandinave et polonaise (Lasse Thoresen, Jean Sibelius et Karol Szymanowski).</description>
-   <itunes:summary>Jon Wild présente de la musique classique scandinave et polonaise (Lasse Thoresen, Jean Sibelius et Karol Szymanowski).</itunes:summary>
-   <itunes:subtitle>Jon Wild présente de la musique classique scandinave et polonaise (Lasse Thoresen, Jean Sibelius et Karol Szymanowski).</itunes:subtitle>
+   <description>Jon Wild présente de la musique classique scandinave et polonaise (Thoresen, Sibelius et Szymanowski).</description>
+   <itunes:summary>Jon Wild présente de la musique classique scandinave et polonaise (Thoresen, Sibelius et Szymanowski).</itunes:summary>
+   <itunes:subtitle>Jon Wild présente de la musique classique scandinave et polonaise (Thoresen, Sibelius et Szymanowski).</itunes:subtitle>
    <itunesu:category itunesu:code="102107" />
    <enclosure url="https://sessionsmarteau.com/assets/podcasts/Sessions-Marteau-001A-Jon-Wild-mix.m4a" type="audio/mpeg" length="1" />
    <guid>https://sessionsmarteau.com/assets/podcasts/Sessions-Marteau-001A-Jon-Wild-mix.m4a</guid>
